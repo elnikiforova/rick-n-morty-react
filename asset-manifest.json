@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rick-n-morty-react/static/css/main.32841401.chunk.css",
+    "main.js": "/rick-n-morty-react/static/js/main.2132aca0.chunk.js",
+    "main.js.map": "/rick-n-morty-react/static/js/main.2132aca0.chunk.js.map",
+    "runtime-main.js": "/rick-n-morty-react/static/js/runtime-main.18209b3e.js",
+    "runtime-main.js.map": "/rick-n-morty-react/static/js/runtime-main.18209b3e.js.map",
+    "static/css/2.33c18864.chunk.css": "/rick-n-morty-react/static/css/2.33c18864.chunk.css",
+    "static/js/2.478befa9.chunk.js": "/rick-n-morty-react/static/js/2.478befa9.chunk.js",
+    "static/js/2.478befa9.chunk.js.map": "/rick-n-morty-react/static/js/2.478befa9.chunk.js.map",
+    "static/js/3.f73f4d30.chunk.js": "/rick-n-morty-react/static/js/3.f73f4d30.chunk.js",
+    "static/js/3.f73f4d30.chunk.js.map": "/rick-n-morty-react/static/js/3.f73f4d30.chunk.js.map",
+    "index.html": "/rick-n-morty-react/index.html",
+    "static/css/2.33c18864.chunk.css.map": "/rick-n-morty-react/static/css/2.33c18864.chunk.css.map",
+    "static/css/main.32841401.chunk.css.map": "/rick-n-morty-react/static/css/main.32841401.chunk.css.map",
+    "static/js/2.478befa9.chunk.js.LICENSE.txt": "/rick-n-morty-react/static/js/2.478befa9.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/rick-n-morty-react/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18209b3e.js",
+    "static/css/2.33c18864.chunk.css",
+    "static/js/2.478befa9.chunk.js",
+    "static/css/main.32841401.chunk.css",
+    "static/js/main.2132aca0.chunk.js"
+  ]
+}
