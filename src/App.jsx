@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter as Router, Route, Link, Switch,
+  HashRouter, Route, Link, Switch,
 } from 'react-router-dom';
 import { Menu } from 'semantic-ui-react';
 import FirstPage from './pages/FirstPage';
@@ -8,7 +8,7 @@ import SecondPage from './pages/SecondPage';
 
 function App() {
   return (
-    <Router>
+    <HashRouter basename='/'>
       <>
         <Menu color="green" inverted widths={5}>
           <Menu.Item>
@@ -34,7 +34,7 @@ function App() {
         </Switch>
 
       </>
-    </Router>
+    </HashRouter>
   );
 }
 
